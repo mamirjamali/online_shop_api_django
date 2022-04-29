@@ -1,0 +1,14 @@
+{
+    "python.analysis.extraPaths": [
+        "./storefront"
+    ],
+    "python.pythonPath": [
+        "/home/rayan partov/.virtualenvs/storefront-sFrcQ59T/Scripts/python.exe"
+    ],
+    "python.testing.pytestArgs": [
+        "."
+    ],
+    "python.testing.unittestEnabled": false,
+    "python.testing.pytestEnabled": true,
+
+}
